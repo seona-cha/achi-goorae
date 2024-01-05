@@ -1,0 +1,169 @@
+{
+    "items":[
+        {
+            "id":1,
+            "imgUrl":"./assets/images/achi_goorae_01.jpg",
+            "alt":"신나게 놀고 나서 뻗었짹"
+        },
+        {
+            "id":2,
+            "imgUrl":"./assets/images/achi_goorae_02.jpg",
+            "alt":"아치와 그래 할무니집 가는 중"
+        },
+        {
+            "id":3,
+            "imgUrl":"./assets/images/achi_goorae_03.jpg",
+            "alt":"이쁜 표정 아치"
+        },
+        {
+            "id":4,
+            "imgUrl":"./assets/images/achi_goorae_04.jpg",
+            "alt":"순둥이 그래"
+        },
+        {
+            "id":5,
+            "imgUrl":"./assets/images/achi_goorae_05.jpg",
+            "alt":"이 자리 마음에 들어"
+        },
+        {
+            "id":6,
+            "imgUrl":"./assets/images/achi_goorae_06.jpg",
+            "alt":"비장한 아치와 그래"
+        },
+        {
+            "id":7,
+            "imgUrl":"./assets/images/achi_goorae_07.jpg",
+            "alt":"그래 증명사진 짹"
+        },
+        {
+            "id":8,
+            "imgUrl":"./assets/images/achi_goorae_08.jpg",
+            "alt":"줄타는 아치와 창틀 청소하는 그래"
+        },
+        {
+            "id":9,
+            "imgUrl":"./assets/images/achi_goorae_09.jpg",
+            "alt":"탐험중인 아치와 그래"
+        },
+        {
+            "id":10,
+            "imgUrl":"./assets/images/achi_goorae_10.jpg",
+            "alt":"시계보는 아치와 카메라 의식한 그래"
+        },
+        {
+            "id":11,
+            "imgUrl":"./assets/images/achi_goorae_11.jpg",
+            "alt":"나도 먹고싶다아앙"
+        },
+        {
+            "id":12,
+            "imgUrl":"./assets/images/achi_goorae_12.jpg",
+            "alt":"빵이네"
+        },
+        {
+            "id":13,
+            "imgUrl":"./assets/images/achi_goorae_13.jpg",
+            "alt":"해바라기씨 먹는 앵무새 처음 보십니까?"
+        },
+        {
+            "id":14,
+            "imgUrl":"./assets/images/achi_goorae_14.jpg",
+            "alt":"밥 맛있짹"
+        },
+        {
+            "id":15,
+            "imgUrl":"./assets/images/achi_goorae_15.jpg",
+            "alt":"그래 졸려"
+        },
+        {
+            "id":16,
+            "imgUrl":"./assets/images/achi_goorae_16.jpg",
+            "alt":"아치야 그만"
+        },
+        {
+            "id":17,
+            "imgUrl":"./assets/images/achi_goorae_17.jpg",
+            "alt":"호기심 아치와 졸린 그래"
+        },
+        {
+            "id":18,
+            "imgUrl":"./assets/images/achi_goorae_18.jpg",
+            "alt":"다정한 아치와 그래"
+        },
+        {
+            "id":19,
+            "imgUrl":"./assets/images/achi_goorae_19.jpg",
+            "alt":"밥먹는중 아치와 그래"
+        },
+        {
+            "id":20,
+            "imgUrl":"./assets/images/achi_goorae_20.jpg",
+            "alt":"아기 얼굴 아치"
+        },
+        {
+            "id":21,
+            "imgUrl":"./assets/images/achi_goorae_21.jpg",
+            "alt":"모자 쓴 아치"
+        },
+        {
+            "id":22,
+            "imgUrl":"./assets/images/achi_goorae_22.jpg",
+            "alt":"아이스크림 아치"
+        },
+        {
+            "id":23,
+            "imgUrl":"./assets/images/achi_goorae_23.jpg",
+            "alt":"아치와 그래(아닐수도?)"
+        },
+        {
+            "id":24,
+            "imgUrl":"./assets/images/achi_goorae_24.jpg",
+            "alt":"아치"
+        },
+        {
+            "id":25,
+            "imgUrl":"./assets/images/achi_goorae_25.jpg",
+            "alt":"모란앵무 친구들"
+        },
+        {
+            "id":26,
+            "imgUrl":"./assets/images/achi_goorae_26.jpg",
+            "alt":"앵카에서 아치와 친구"
+        },
+        {
+            "id":27,
+            "imgUrl":"./assets/images/achi_goorae_27.jpg",
+            "alt":"그래가 집에 처음 온날 투샷"
+        },
+        {
+            "id":28,
+            "imgUrl":"./assets/images/achi_goorae_28.jpg",
+            "alt":"그냥 귀여운 그래"
+        },
+        {
+            "id":29,
+            "imgUrl":"./assets/images/achi_goorae_29.jpg",
+            "alt":"그래 머리 긁긁해주는 아치"
+        },
+        {
+            "id":30,
+            "imgUrl":"./assets/images/achi_goorae_30.jpg",
+            "alt":"포치에 들어간 아치와 그래"
+        },
+        {
+            "id":31,
+            "imgUrl":"./assets/images/achi_goorae_31.jpg",
+            "alt":"머리 위에서 갸웃하는 그래"
+        },
+        {
+            "id":32,
+            "imgUrl":"./assets/images/achi_goorae_32.jpg",
+            "alt":"손 위의 아치"
+        },
+        {
+            "id":33,
+            "imgUrl":"./assets/images/achi_goorae_33.jpg",
+            "alt":"새장 속의 아치와 그래"
+        }
+    ]
+}
